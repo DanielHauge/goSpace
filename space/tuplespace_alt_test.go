@@ -1,8 +1,8 @@
 package space
 
 import (
-	. "github.com/pspaces/gospace/protocol"
-	. "github.com/pspaces/gospace/shared"
+	. "github.com/DanielHauge/goSpace/protocol"
+	. "github.com/DanielHauge/goSpace/shared"
 	"reflect"
 	"testing"
 )
