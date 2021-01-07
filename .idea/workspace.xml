@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8be52262-078f-4c4a-b976-ac744c428bdd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/protocol/waitingclient.go" beforeDir="false" afterPath="$PROJECT_DIR$/protocol/waitingclient.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protocol/waitingclient_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/protocol/waitingclient_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space/space.go" beforeDir="false" afterPath="$PROJECT_DIR$/space/space.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space/tuplespace.go" beforeDir="false" afterPath="$PROJECT_DIR$/space/tuplespace.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space/tuplespace_alt.go" beforeDir="false" afterPath="$PROJECT_DIR$/space/tuplespace_alt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space/tuplespace_alt_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/space/tuplespace_alt_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/space/tuplespace_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/space/tuplespace_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gospace.go" beforeDir="false" afterPath="$PROJECT_DIR$/gospace.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
